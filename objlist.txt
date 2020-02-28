@@ -1,0 +1,36 @@
+﻿11: Score 1 VP if you control an even and uneven objective marker at the end of your turn.
+12: Score 1 VP if you control any two even objective markers at the end of your turn.
+13: Score 1 VP if you control any two uneven objective markers at the end of your turn.
+14: Score 3 VP if you control 2 even and 2 uneven objective markers at the end of your turn.
+15: Score 2 VP if you control all even objective markers at the end of your turn.
+16: Score 2 VP if you control all uneven markers at the end of your turn.
+21: Score 1 victory point if you control objective marker 1 at the end of your turn.
+22: Score 1 victory point if you control objective marker 2 at the end of your turn.
+23: Score 1 victory point if you control objective marker 3 at the end of your turn.
+24: Score 1 victory point if you control objective marker 4 at the end of your turn.
+25: Score 1 victory point if you control objective marker 5 at the end of your turn.
+26: Score 1 victory point if you control objective marker 6 at the end of your turn.
+31: Score 2 victory points if you control objective marker 1 at the end of two consecutive turns.
+32: Score 2 victory points if you control objective marker 2 at the end of two consecutive turns.
+33: Score 2 victory points if you control objective marker 3 at the end of two consecutive turns.
+34: Score 2 victory points if you control objective marker 4 at the end of two consecutive turns.
+35: Score 2 victory points if you control objective marker 5 at the end of two consecutive turns.
+36: Score 2 victory points if you control objective marker 6 at the end of two consecutive turns.
+41: Score 1 victory point if no unit from your army is within your deployment zone at the end of your turn.
+42: Score 1 victory point if you have at least one unit completely within the enemy’s deployment zone at the end of your turn. If you have at least three units within your opponent’s deployment zone at the end of your turn, score D3 victory points instead.
+43: Score 1 victory point if you have at least three units completely within your deployment zone, and your opponent has no models within your deployment zone, at the end of your turn. This objective cannot be achieved on your first turn.
+44: When this Tactical Objective is generated, roll a D6. Score 1 victory point if you control the corresponding objective marker. If the corresponding objective marker was controlled by your opponent at the start of your turn and you control it at the end of your turn, score D3 victory points instead.
+45: Score D3 victory points if you control any three objective markers at the end of your turn.
+46: Score D3+3 victory points if you control every objective marker on the battlefield at the end of your turn.
+51: Score 1 victory point if an enemy unit was destroyed during the Shooting phase of your turn. If 3 or more enemy units were destroyed during the Shooting phase of your turn, score D3 victory points instead.
+52: Score 1 victory point if an enemy unit was destroyed during the Fight phase of this turn. If 3 or more enemy units were destroyed during the Fight phase of this turn, score D3 victory points instead.
+53: Score 1 victory point if an enemy unit was destroyed during your turn. If between 3 and 5 enemy units were destroyed during your turn, score D3 victory points instead. If 6 or more enemy units were destroyed during your turn, score D3+3 victory points instead.
+54: Score 1 victory point if there are no enemy models within 6" of the centre of the battlefield at the end of your turn. If there are no enemy models within 12" of the centre of the battlefield at the end of your turn, score D3 victory points instead.
+55: Score 1 victory point if your opponent failed a Morale test during this turn. If your opponent failed 3 or more Morale tests, score D3 victory points instead.
+56: Score 1 victory point if you manifested or denied a psychic power during this turn. If you manifested or denied 3 or more psychic powers, score D3 victory points instead.
+61: Score D3 victory points if your opponent’s Warlord has been destroyed during this or any previous turn.
+62: Score 1 victory point if at least one enemy PSYKER was destroyed during this turn.
+63: Score 1 victory point if at least one enemy unit that can FLY was destroyed during this turn.
+64: Score 1 victory point if at least one enemy CHARACTER was destroyed during this turn. If 3 or more enemy CHARACTERS were destroyed during this turn, score D3 victory points instead.
+65: Score 1 victory point if at least one enemy unit with a Wounds characteristic of 10 or more was destroyed during this turn. If at least one enemy unit with a Wounds characteristic of 20 or more was destroyed this turn, score D3 victory points instead.
+66: When this Tactical Objective is generated, immediately generate a bonus Tactical Objective – this does not count towards the number of Active Tactical Objectives you currently have in play. Your Warlord is the only unit that can be used to achieve the bonus Tactical Objective – they must be the only unit used to control an objective marker, the unit that destroys the last model in an enemy unit, and so on. If you achieve this, you score both the number of victory points stated on the bonus Tactical Objective and an additional 3 victory points. If this Tactical Objective is discarded, so too is the bonus Tactical Objective.
